@@ -8,12 +8,16 @@ If you've created a module for [FreeScout](https://github.com/freescout-helpdesk
 
 * [Alternative Signatures](https://github.com/LJPc-solutions/freescout-alternative-signatures-module "Alternative Signatures") - Alternative signatures in Freescout
 * [Calendar](https://github.com/LJPc-solutions/freescout-calendar-module "Calendar") - A calendar module for Freescout
+* [Claude Assistant](https://github.com/altmenorg/freescout-claude-assistant "Claude Assistant") - Draft and improve replies with Claude from the reply editor, using the conversation, the customer's history, saved replies, documentation and your team's tone
+* [Cobrowse](https://github.com/altmenorg/freescout-cobrowse "Cobrowse") - Co-browse with customers (Cobrowse.io) from the conversation sidebar
 * [FreeScoutGPT](https://github.com/presswizards/FreeScoutGPT/) - FreeScout + ChatGPT Integration Module, which connects FreeScout with the powerful language models of ChatGPT by OpenAI via their API using your own API key.
 * [Fetch Seen](https://github.com/FreeScout-shop/fetch-seen "Fetch Seen") - Fetch Seen Emails
 * [Following](https://github.com/avenjamin/freescout-Following-Module "Following") - Add a 'Following' folder to your mailboxes
+* [Freshdesk Import](https://github.com/altmenorg/freescout-freshdesk-import "Freshdesk Import") - Import Freshdesk tickets, notes, attachments, customers and agents into a mailbox, then keep syncing until you switch over
 * [Knowledge API](https://github.com/jtorvald/freescout-knowledge-api "Knowledge API") - Module for FreeScout to make the public content in the knowledge base available through an API
 * [Oauth](https://github.com/bolsunovskyi/freescout-oauth "Oauth") - Oauth module for freescout helpdesk
 * [Postal](https://github.com/Wouter0100/freescout-postal "Postal") - Import emails from Postal.
+* [Refresh](https://github.com/altmenorg/freescout-refresh "Refresh") - A new interface for FreeScout, inspired by Freshdesk: views with SLA badges, dashboard, ajax actions, phone version, installable app (PWA) and Web Push notifications
 * [SAML2](https://github.com/vladaman/freescout-saml2 "SAML2") - SAML 2.0 Module for Freescout
 * [Seven](https://github.com/seven-io/FreeScout "Seven") - FreeScout module for sending SMS via seven
 * [Sidebar Webhook](https://github.com/fulldecent/freescout-sidebar-webhook "Sidebar Webhook") - Sidebar Webhook asynchronously injects HTML from your server into conversation sidebars
